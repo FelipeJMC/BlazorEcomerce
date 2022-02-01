@@ -1,0 +1,12 @@
+E:\Cursos\BlazorEcomerce\BlazorEcomerce\Shared\bin\Debug\net6.0\BlazorEcomerce.Shared.deps.json
+E:\Cursos\BlazorEcomerce\BlazorEcomerce\Shared\bin\Debug\net6.0\BlazorEcomerce.Shared.dll
+E:\Cursos\BlazorEcomerce\BlazorEcomerce\Shared\bin\Debug\net6.0\ref\BlazorEcomerce.Shared.dll
+E:\Cursos\BlazorEcomerce\BlazorEcomerce\Shared\bin\Debug\net6.0\BlazorEcomerce.Shared.pdb
+E:\Cursos\BlazorEcomerce\BlazorEcomerce\Shared\obj\Debug\net6.0\BlazorEcomerce.Shared.csproj.AssemblyReference.cache
+E:\Cursos\BlazorEcomerce\BlazorEcomerce\Shared\obj\Debug\net6.0\BlazorEcomerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\BlazorEcomerce\BlazorEcomerce\Shared\obj\Debug\net6.0\BlazorEcomerce.Shared.AssemblyInfoInputs.cache
+E:\Cursos\BlazorEcomerce\BlazorEcomerce\Shared\obj\Debug\net6.0\BlazorEcomerce.Shared.AssemblyInfo.cs
+E:\Cursos\BlazorEcomerce\BlazorEcomerce\Shared\obj\Debug\net6.0\BlazorEcomerce.Shared.csproj.CoreCompileInputs.cache
+E:\Cursos\BlazorEcomerce\BlazorEcomerce\Shared\obj\Debug\net6.0\BlazorEcomerce.Shared.dll
+E:\Cursos\BlazorEcomerce\BlazorEcomerce\Shared\obj\Debug\net6.0\ref\BlazorEcomerce.Shared.dll
+E:\Cursos\BlazorEcomerce\BlazorEcomerce\Shared\obj\Debug\net6.0\BlazorEcomerce.Shared.pdb

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "26f74be1-3855-4baf-b546-b80fd64aae79": {
+      "ProjectGuid": "26f74be1-3855-4baf-b546-b80fd64aae79",
+      "DisplayName": "BlazorEcomerce.Server",
+      "ColorIndex": 0
+    },
+    "c54ef02f-0627-431a-b3b2-a149941ab3eb": {
+      "ProjectGuid": "c54ef02f-0627-431a-b3b2-a149941ab3eb",
+      "DisplayName": "BlazorEcomerce.Client",
+      "ColorIndex": 1
+    },
+    "f54e5f4a-4dfc-47f9-83bb-24ffd28ef077": {
+      "ProjectGuid": "f54e5f4a-4dfc-47f9-83bb-24ffd28ef077",
+      "DisplayName": "BlazorEcomerce.Shared",
+      "ColorIndex": 2
+    },
+    "919fd655-f067-4ba2-b932-d926e85dd6b4": {
+      "ProjectGuid": "919fd655-f067-4ba2-b932-d926e85dd6b4",
+      "DisplayName": "Documentos de script",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
